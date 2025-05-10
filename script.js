@@ -16,3 +16,15 @@ let studentId = {
 }
 
 console.log(studentId)
+
+let student = {
+    name: "Evelyn",
+    age: 27,
+    course: "Economics",
+    faculty: "Social Science",
+}
+console.log(student)
+
+let studenInfo=["Jumoke", "Eniola", "Mike", "Moses"
+]
+console.log(studenInfo)
